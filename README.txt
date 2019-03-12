@@ -1,1 +1,1 @@
-Comandos con Shell Script para mantenimiento de repositorios, operaciones sobre ficheros y comprovación de procesos básicos
+Comandos con Shell Script para mantenimiento de repositorios, operaciones sobre ficheros y comprobación de procesos básicos
